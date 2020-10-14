@@ -1,0 +1,25 @@
+{
+  "name": "webpack-crush-cource",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taishikun0721/webpack-crush-cource.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taishikun0721/webpack-crush-cource/issues"
+  },
+  "homepage": "https://github.com/Taishikun0721/webpack-crush-cource#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.1.0",
+    "webpack-cli": "^4.0.0"
+  }
+}
